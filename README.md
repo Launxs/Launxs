@@ -16,7 +16,7 @@
   <img align="center" alt="Launxs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Launxs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="launxs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Launxs-gif" src="https://i.picasion.com/pic92/a1c9a62f1ac0b1261b73a3386490840d.gif" width="150" height="150" border="100" />
+  <img align="right" alt="Launxs-gif" src="https://i.picasion.com/pic92/a1c9a62f1ac0b1261b73a3386490840d.gif" width="150" height="150" border="100" />
 
 </div><br/>
 
@@ -26,5 +26,6 @@ Apaixonado por tecnologia e cada dia tentando ser uma pessoa melhor, tanto no pr
 <div> 
   <a href="https://instagram.com/launxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luan19472@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/754039476568981584" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/754039476568981584" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-cavalcante-b74417251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
